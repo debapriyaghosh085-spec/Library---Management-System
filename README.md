@@ -7,7 +7,7 @@ The project demonstrates basic file-handling, data structures, and modular progr
 
 ##  Features
 - Add new books  
-- View all books  
+- Display book  
 - Search for a book  
 - Issue a book  
 - Return a book  
